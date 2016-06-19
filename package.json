@@ -1,0 +1,17 @@
+{
+  "name": "game",
+  "version": "0.0.1",
+  "description": "A game I'm making.",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-cli": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-traceur": "^0.17.2",
+    "gulp-uglify": "^1.5.3"
+  },
+  "author": "kvackkvack",
+  "license": "MIT"
+}
